@@ -15,6 +15,7 @@ I conducted EDA to gain insights into the dataset and understand its characteris
 Linear Regression:
 
 Model 1: I performed linear regression with two predictors.
+
 Model 2: I expanded the regression to include all predictors in the dataset.
 
 Ridge Regression:
