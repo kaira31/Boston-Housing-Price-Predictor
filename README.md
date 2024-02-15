@@ -1,6 +1,5 @@
 # Boston-Housing-Price-Predictor
 
-Install all the libraries in requirement.txt file.
 
 # Project Overview:
 
