@@ -6,10 +6,10 @@ Install all the libraries in requirement.txt file.
 
 In this project, I conducted the following tasks:
 
-# Data Cleaning: 
+Data Cleaning: 
 I performed thorough data cleaning to ensure the data was ready for analysis.
 
-# Exploratory Data Analysis (EDA): 
+Exploratory Data Analysis (EDA): 
 I conducted EDA to gain insights into the dataset and understand its characteristics.
 
 Linear Regression:
